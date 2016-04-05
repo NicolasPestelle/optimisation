@@ -1,0 +1,29 @@
+Voici les 5 étapes de l'optimisation :
+
+1) combine et minify 
+2)js/css inline
+3)js en bas
+4)opti image
+5)cdn jquery/bootstrap
+
+
+1: 
+
+combine et minify vas minifier les js et css (ici fait avec une librairie php)
+
+2: 
+
+dans cette 2eme étape on met tout sur une ligne
+
+3:
+
+mieux vaut laisser charger les choses plus importantes d'abord donc mettre en entete uniquement ce qui est indispensable
+
+4:
+
+format adapté 
+compression optimale
+
+5:
+
+serveur optimisé pour les contenus statiques et les délivre depuis la source la plus proche géographiquement. Dispos gratuitement pour librairies js/css populaires
